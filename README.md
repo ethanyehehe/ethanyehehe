@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ethanyehehe
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning to master the Pyton programming language.
-- 💞️ I’m looking to share and create fun encyclopedias, simple testing, and even full games.
+- 💞️ I’m looking to share and create encyclopedias, simple testing mechanics for games, and data compilation.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am enrolling in a data sciences class and is currently in AP CSP.
+- ⚡ Fun fact: I am enrolling in a cybersecurity class and is currently in AP CSP.
 
 <!---
 ethanyehehe/ethanyehehe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
